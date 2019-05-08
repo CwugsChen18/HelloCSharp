@@ -19,3 +19,10 @@ E:\csharp\HelloCSharp\HelloDemo\obj\Debug\HelloDemo.csprojAssemblyReference.cach
 E:\csharp\HelloCSharp\HelloDemo\obj\Debug\HelloDemo.csproj.CoreCompileInputs.cache
 E:\csharp\HelloCSharp\HelloDemo\obj\Debug\HelloDemo.exe
 E:\csharp\HelloCSharp\HelloDemo\obj\Debug\HelloDemo.pdb
+C:\Users\Administrator\Desktop\HelloCSharp\HelloDemo\bin\Debug\HelloDemo.exe.config
+C:\Users\Administrator\Desktop\HelloCSharp\HelloDemo\bin\Debug\HelloDemo.exe
+C:\Users\Administrator\Desktop\HelloCSharp\HelloDemo\bin\Debug\HelloDemo.pdb
+C:\Users\Administrator\Desktop\HelloCSharp\HelloDemo\obj\Debug\HelloDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HelloCSharp\HelloDemo\obj\Debug\HelloDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HelloCSharp\HelloDemo\obj\Debug\HelloDemo.exe
+C:\Users\Administrator\Desktop\HelloCSharp\HelloDemo\obj\Debug\HelloDemo.pdb

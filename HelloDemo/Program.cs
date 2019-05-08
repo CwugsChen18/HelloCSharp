@@ -15,7 +15,20 @@ namespace HelloDemo
             //Calculator cal = new Calculator();
             //ArrayAndConti ac = new ArrayAndConti();
 
-            Func f = new Func();
+            //Func f = new Func();
+
+            ClassDemo c = new ClassDemo();
+           //可以设置Name的值
+            c.Name = "eee";
+            //访问Name的只报错 因为设置为了隐藏 从而实现只写
+            // Console.WriteLine(c.Name);
+
+            //使用自定义构造器创建对象
+         //   ClassDemo c1 = new ClassDemo("c1");
+
+            Console.Read();
+
+            
         }
 
         private static void Vars() {
