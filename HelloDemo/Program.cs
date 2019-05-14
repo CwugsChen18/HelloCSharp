@@ -29,8 +29,8 @@ namespace HelloDemo
             // Console.Read();
 
             //new ExtendDemo("../jjdj/hdh.pdfs");
-            new ImplementDemo();
-            
+            //new ImplementDemo();
+            new ClassOther();
         }
 
         private static void Vars() {
