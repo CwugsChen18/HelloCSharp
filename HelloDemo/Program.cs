@@ -28,8 +28,8 @@ namespace HelloDemo
 
             // Console.Read();
 
-            new ExtendDemo("../jjdj/hdh.pdfs");
-
+            //new ExtendDemo("../jjdj/hdh.pdfs");
+            new ImplementDemo();
             
         }
 

@@ -48,6 +48,7 @@
     <Compile Include="ClassDemo.cs" />
     <Compile Include="ExtendDemo.cs" />
     <Compile Include="Func.cs" />
+    <Compile Include="ImplementDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

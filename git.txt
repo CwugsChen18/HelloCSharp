@@ -4,7 +4,7 @@ git init    初始化本地仓库
 git status 获取跟新文件列表 根据文件颜色判断
 git add +(文件名或者 .(添加所有文件))   添加到本地仓
 git commit -m    des(描述)   提交到本地仓
-git remote add origin master path（https://github.com/CwugsChen18/HelloCSharp.git）(远程仓库路径)    连接远程仓
+git remote add origin master https://github.com/CwugsChen18/HelloCSharp.git(远程仓库路径)    连接远程仓
 git pull --rebase origin master   合并远程仓代码到本地仓
 git push -u origin master   提交代码到远程仓
  
