@@ -46,6 +46,7 @@
     <Compile Include="ArrayAndConti.cs" />
     <Compile Include="CalCulator.cs" />
     <Compile Include="ClassDemo.cs" />
+    <Compile Include="ExtendDemo.cs" />
     <Compile Include="Func.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
