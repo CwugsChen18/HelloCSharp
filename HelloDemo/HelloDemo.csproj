@@ -47,6 +47,7 @@
     <Compile Include="CalCulator.cs" />
     <Compile Include="ClassDemo.cs" />
     <Compile Include="ClassOther.cs" />
+    <Compile Include="DelegateDemo.cs" />
     <Compile Include="ExtendDemo.cs" />
     <Compile Include="Func.cs" />
     <Compile Include="ImplementDemo.cs" />

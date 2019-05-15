@@ -30,7 +30,8 @@ namespace HelloDemo
 
             //new ExtendDemo("../jjdj/hdh.pdfs");
             //new ImplementDemo();
-            new ClassOther();
+            //new ClassOther();
+            new DelegateDemo();
         }
 
         private static void Vars() {
