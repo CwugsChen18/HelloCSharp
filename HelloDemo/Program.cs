@@ -31,7 +31,9 @@ namespace HelloDemo
             //new ExtendDemo("../jjdj/hdh.pdfs");
             //new ImplementDemo();
             //new ClassOther();
-            new DelegateDemo();
+            //new DelegateDemo();
+            //new PublisherDemo();
+            new PubDelegate();
         }
 
         private static void Vars() {

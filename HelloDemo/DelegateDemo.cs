@@ -30,10 +30,12 @@ namespace HelloDemo
 
             //C#自定义委托
             //Action<> 例 List<T>.ForEach()
-            List<int> lists = new List<int> { 1,2,5,7,8,9};            Console.WriteLine("Action委托 无返回值");
+            List<int> lists = new List<int> { 1,2,5,7,8,9};
+            Console.WriteLine("Action委托 无返回值");
             lists.ForEach((ele) => { Console.WriteLine(ele); });
             //Func<> 例 List<T>.Sum()
-            Console.WriteLine("Func委托 有返回值任一类型");            Console.WriteLine(lists.Sum(ele=>ele));
+            Console.WriteLine("Func委托 有返回值任一类型");
+            Console.WriteLine(lists.Sum(ele=>ele));
             //Predicate<> 例 List<T>.FindAll()
             //          例 List<T>.Find ()
             Console.WriteLine("Predicate委托 有返回值bool类型");
