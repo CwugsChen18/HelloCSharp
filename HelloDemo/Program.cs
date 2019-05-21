@@ -33,7 +33,9 @@ namespace HelloDemo
             //new ClassOther();
             //new DelegateDemo();
             //new PublisherDemo();
-            new PubDelegate();
+            //new PubDelegate();
+
+            new CollectionsInit();
         }
 
         private static void Vars() {
